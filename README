@@ -1,0 +1,12 @@
+CS2010
+Lab Assignment 4
+Zachary Lapointe
+DICTIONARY PART 2
+This program will create a dictionary of words (implemented as an array of strings and using typedefs) found in a file
+Maximum uniques words is 100
+Max length of each word is 19
+
+To compile, type make in terminal.
+To run type:            ./DICTIONARY
+To input a file type:   ./DICTIONARY < test
+where test is the file with your input
